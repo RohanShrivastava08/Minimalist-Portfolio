@@ -11,6 +11,7 @@ import Certifications from "./sections/Certifications";
 import Volunteering from "./sections/Volunteering";
 import Education from "./sections/Education";
 import Contact from "./sections/Contact";
+import Resume from "./sections/Resume";
 
 import ScrollToTop from "./components/ScrollToTop";
 
@@ -37,6 +38,7 @@ function App() {
         <Certifications />
         <Volunteering />
         <Education />
+        <Resume /> 
         <Contact />
       </main>
       <ScrollToTop />
