@@ -1,4 +1,4 @@
-# 🎨 Minimalist Portfolio
+# 🎨 Minimalist Portfolio - A minimal styled Portfolio
 
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/5d9a5c3c-8c8f-4c92-9997-1c5cafcfabf2" />
 
@@ -31,8 +31,11 @@
 ## 📘 Introduction
 
 - A lightweight portfolio website to present yourself as a developer or creator.
+  
 - Built for speed, minimalism, and customization.
+  
 - Includes a resume section, animated transitions, and responsive UI.
+  
 - Ideal for students, job seekers, and professionals who want a modern personal site.
 
 
