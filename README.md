@@ -1,5 +1,9 @@
 # 🎨 Minimalist Portfolio - A minimal styled Portfolio
 
+- A modern and elegant developer portfolio built with React, Vite, and Tailwind CSS.
+
+- Minimalist-Portfolio makes it easy to showcase your resume, skills, and projects in a clean, responsive design with smooth animations.
+
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/5d9a5c3c-8c8f-4c92-9997-1c5cafcfabf2" />
 
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/805e59d5-babb-461b-ac3f-e7d0e297322e" />
@@ -9,10 +13,6 @@
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/a54cdafe-9717-43c3-8bd4-8a71ae1f2710" />
 
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/fd36d16f-6b53-4d84-ba2d-789da10e86b8" />
-
-- A modern and elegant developer portfolio built with React, Vite, and Tailwind CSS.
-
-- Minimalist-Portfolio makes it easy to showcase your resume, skills, and projects in a clean, responsive design with smooth animations.
 
 
 ## 📋 Table of Contents
