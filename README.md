@@ -10,10 +10,6 @@
 
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/eed16b02-6335-4674-b3dd-da5ea781e5b9" />
 
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/a54cdafe-9717-43c3-8bd4-8a71ae1f2710" />
-
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/fd36d16f-6b53-4d84-ba2d-789da10e86b8" />
-
 
 ## 📋 Table of Contents
 - Introduction
